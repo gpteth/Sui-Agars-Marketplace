@@ -1,5 +1,5 @@
 [package]
-name = "agarsmarketplace"
+name = "agar_betting"
 edition = "2024.beta" # edition = "legacy" to use legacy (pre-2024) Move
 
 [dependencies]
